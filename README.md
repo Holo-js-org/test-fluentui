@@ -1,6 +1,6 @@
-# Holo + Material 3
+# Holo + FluentUI
 
-Material 3 Test using Holo.js
+Fluent UI Test using Holo.js
 
-Uses CDN and library "@material/web"
+Uses CDN and library "@fluentui/web-components"
 
